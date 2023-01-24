@@ -624,13 +624,12 @@ footer .content {
     .nav-menu.active {
         left: 0;
     }
-
-    .back-video {
+}
+.back-video {
         position: absolute;
         height: 1500;
         width: 100%;
         right: 0;
         bottom: 0;
         z-index: -1;
-    }
 }

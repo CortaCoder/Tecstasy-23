@@ -628,7 +628,8 @@ footer .content {
 .back-video {
         position: absolute;
         height: 1500;
-        width: 100%;
+        max-width: 100%;
+        margin:auto;
         right: 0;
         bottom: 0;
         z-index: -1;
